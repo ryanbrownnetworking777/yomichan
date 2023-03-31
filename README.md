@@ -1,5 +1,5 @@
 # Yomichan
-
+**Fork for Hacking Purposes**
 *Note: this project is no longer maintained. Please see [this
 post](https://foosoft.net/posts/sunsetting-the-yomichan-project/) for more information.*
 
